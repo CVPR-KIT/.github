@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="figs/labandUni.png" alt="Qualitative Results" width="450"/>
+  <img src="figs/labandUni.png" alt="Logo" width="450"/>
 </div>
 
 <p align="center">
@@ -10,6 +10,11 @@
 
 Welcome to the official GitHub organization page for CVPR lab of Kumoh National Institute of technology! Here, we focus on cutting-edge research in computer vision and pattern recognition, with a particular emphasis on microsctructures in medical image and steel analysis. 
 
+<p align="center">
+<a href="http://cvpr.kumoh.ac.kr">
+  <img alt="Static Badge" src="https://img.shields.io/badge/View--LAB_Website-page?color=gray">
+</a>
+</p>
 
 
 <!--
