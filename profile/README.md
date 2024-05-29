@@ -1,7 +1,4 @@
-<br/>
-<div align="center">
-  <img src="figs/labandUni.png" alt="Logo" width="450"/>
-</div>
+
 
 <p align="center">
   <h2 align="center" display="inline-block">CVPR Lab<br/>Kumoh National Institute of Technology</h2>
